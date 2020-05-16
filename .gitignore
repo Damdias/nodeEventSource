@@ -1,0 +1,7 @@
+./server/node_modules
+./query/node_modules
+./post/node_modules
+./moderation/node_modules
+./event-bus/node_modules
+./comments/node_modules
+./client/node_modules
